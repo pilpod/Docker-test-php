@@ -1,0 +1,14 @@
+{
+  "name": "test-helloworld-php",
+  "version": "1.0.0",
+  "description": "learning docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "giacomo",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.1"
+  }
+}
